@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![prueba](https://user-images.githubusercontent.com/108832268/200228033-95847baf-7ce7-48e8-8567-2e34548393b4.png)
+
 
 <!--
 **BeliFr/BeliFR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,10 +20,8 @@ Here are some ideas to get you started:
   
 <h3 align="center"> My name is Bere. I'm a Front-End Developer :computer: and lawyer :lawyer:</h3>
 
-![prueba](https://user-images.githubusercontent.com/108832268/200228033-95847baf-7ce7-48e8-8567-2e34548393b4.png)
 
-
-## 📫 Keep in touch
+## 📫 Stay in touch
 
 <a href="https://twitter.com/ValkiriadHierro">
   <img align="left" alt="ValkiriadHierro | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
