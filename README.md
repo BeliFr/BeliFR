@@ -15,15 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<p align="center">
-<img src="">
-<p>
-
-<h2 align="center">Welcome!!</h2>
-
   
 <h3 align="center"> My name is Bere. I'm a Front-End Developer :computer: and lawyer :lawyer:</h3>
+
+![prueba](https://user-images.githubusercontent.com/108832268/200228033-95847baf-7ce7-48e8-8567-2e34548393b4.png)
+
 
 ## 📫 Keep in touch
 
@@ -34,15 +30,17 @@ Here are some ideas to get you started:
   <img align="left" alt="Bere´s LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
- <img align="right" alt="GIF" src="https://www.freepik.es/vector-premium/banner-codificacion-programacion-desarrollo-web-codigo-computadora-ilustracion-vectorial_25976391.htm" width="500" height="320" />
-<br>
+##
 
+
+##
 - 💼 any  work? do reach, [email](mailto:https://mail.google.com/mail/u/0/?pli=1#inbox) :)
 - 💬 ask me about anything, i am happy to help;
  
  <br>
  
- **:desktop_computer:languages and tools:**  
+ 
+ ## **:desktop_computer:languages and tools:**  
 
 <code><img height="20" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></code>
 <code><img height="20" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></code>
