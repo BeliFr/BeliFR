@@ -1,6 +1,7 @@
 ### Hi there 👋
+![WhatsApp Image 2022-11-07 at 9 36 56 AM](https://user-images.githubusercontent.com/108832268/200352898-63d4090c-1564-4498-b67e-39bb9a3bea13.jpeg)
 
-![prueba](https://user-images.githubusercontent.com/108832268/200228033-95847baf-7ce7-48e8-8567-2e34548393b4.png)
+
 
 
 <!--
