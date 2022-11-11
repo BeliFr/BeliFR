@@ -70,7 +70,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BeliFr&repo=CDMX013-social-network&theme=aura" />
 </a>
 <a href="https://github.com/BeliFr/CDMX013-data-lovers-frias-jimenez">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BeliFr&repo=CDMX013-data-lovers-frias-jimenezs&theme=aura" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BeliFr&repo=CDMX013-data-lovers-frias-jimenez&theme=aura" />
 </a>
 <a href="https://github.com/BeliFr/CDMX013-cipher">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BeliFr&repo=CDMX013-cipher&theme=aura" />
