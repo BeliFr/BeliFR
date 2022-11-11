@@ -1,5 +1,7 @@
-### Hi there 👋
-![WhatsApp Image 2022-11-07 at 9 36 56 AM](https://user-images.githubusercontent.com/108832268/200352898-63d4090c-1564-4498-b67e-39bb9a3bea13.jpeg)
+<h1 align="center"> Hello World 👋</h1>
+
+![bbaner](https://user-images.githubusercontent.com/108832268/201389596-cbd045a4-d72f-41ed-8657-16b68702db7b.jpeg)
+
 
 
 
@@ -19,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   
-<h3 align="center"> My name is Bere. I'm a Front-End Developer :computer: and lawyer :lawyer:</h3>
+<h3 align="center">  I'm a Front-End Developer :computer: and lawyer ⚖️</h3>
 
 
 ## 📫 Stay in touch
@@ -35,7 +37,7 @@ Here are some ideas to get you started:
 
 
 ##
-- 💼 any  work? do reach, [email](mailto:https://mail.google.com/mail/u/0/?pli=1#inbox) :)
+- 💼 any  work? do reach,<a href="mailto:fbfriasr@gmail.com"><img align="center" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" height="30" width="50" /></a>
 - 💬 ask me about anything, i am happy to help;
  
  <br>
@@ -49,29 +51,31 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"></code>
+<code><img height="20" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></code>
 
 
 <br>
 
 ### 📊 GitHub Stats:
 <a href="https://github-readme-stats.vercel.app/api?username=BeliFr&theme=aura&hide_border=false&include_all_commits=true&count_private=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BeliFr&theme=aura&hide_border=false&include_all_commits=true&count_private=true" width="400"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BeliFr&theme=jolly&hide_border=false&include_all_commits=true&count_private=true" width="400"/>
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=BeliFr&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeliFr&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width= "400"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeliFr&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width= "400"/>
 </a>
 
 ### 🗂️ Repositorios:
 
 <a href="https://github.com/BeliFr/CDMX013-md-links">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BeliFr&repo=CDMX013-md-links&theme=aura" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BeliFr&repo=CDMX013-md-links&theme=jolly" />
 </a>
 <a href="https://github.com/BeliFr/CDMX013-social-network">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BeliFr&repo=CDMX013-social-network&theme=aura" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BeliFr&repo=CDMX013-social-network&theme=jolly" />
 </a>
 <a href="https://github.com/BeliFr/CDMX013-data-lovers-frias-jimenez">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BeliFr&repo=CDMX013-data-lovers-frias-jimenez&theme=aura" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BeliFr&repo=CDMX013-data-lovers-frias-jimenez&theme=jolly" />
 </a>
 <a href="https://github.com/BeliFr/CDMX013-cipher">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BeliFr&repo=CDMX013-cipher&theme=aura" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BeliFr&repo=CDMX013-cipher&theme=jolly" />
 </a>
