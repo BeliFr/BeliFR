@@ -52,3 +52,26 @@ Here are some ideas to get you started:
 
 
 <br>
+
+### 📊 GitHub Stats:
+<a href="https://github-readme-stats.vercel.app/api?username=BeliFR&theme=aura&hide_border=false&include_all_commits=true&count_private=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BeliFR&theme=aura&hide_border=false&include_all_commits=true&count_private=true" width="400"/>
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=BeliFR&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeliFR&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width= "400"/>
+</a>
+
+### 🗂️ Repositorios:
+
+<a href="https://github.com/DianaAmpudia/CDMX013-md-links">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DianaAmpudia&repo=CDMX013-md-links&theme=aura" />
+</a>
+<a href="https://github.com/DianaAmpudia/CDMX013-social-network">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DianaAmpudia&repo=CDMX013-social-network&theme=aura" />
+</a>
+<a href="https://github.com/DianaAmpudia/CDMX013-data-lovers">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DianaAmpudia&repo=CDMX013-data-lovers&theme=aura" />
+</a>
+<a href="https://github.com/BeliFr/CDMX013-cipher">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BeliFR&repo=CDMX013-cipher&theme=aura" />
+</a>
