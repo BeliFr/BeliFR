@@ -36,9 +36,13 @@ Here are some ideas to get you started:
 ##
 
 
-##
-- 💼 any  work? do reach,<a href="mailto:fbfriasr@gmail.com"><img align="center" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" height="30" width="50" /></a>
+## **About me**
+
+-  🔭 &nbsp;I’m currently working on something cool :wink:
 - 💬 ask me about anything, i am happy to help;
+- 🌱 &nbsp;I’m currently learning React
+-  ⚡ &nbsp;Fun fact: I :heart: 🏈:
+-  💼 any  work? do reach,<a href="mailto:fbfriasr@gmail.com"><img align="center" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" height="30" width="50" /></a>
  
  <br>
  
@@ -57,25 +61,28 @@ Here are some ideas to get you started:
 
 <br>
 
+
+
 ### 📊 GitHub Stats:
 <a href="https://github-readme-stats.vercel.app/api?username=BeliFr&theme=aura&hide_border=false&include_all_commits=true&count_private=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BeliFr&theme=jolly&hide_border=false&include_all_commits=true&count_private=true" width="400"/>
-</a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BeliFr&theme=omni&hide_border=false&include_all_commits=true&count_private=true" width="400"/>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=BeliFr&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeliFr&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width= "400"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeliFr&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width= "400"/>
 </a>
+  
+
 
 ### 🗂️ Repositorios:
 
 <a href="https://github.com/BeliFr/CDMX013-md-links">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BeliFr&repo=CDMX013-md-links&theme=jolly" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BeliFr&repo=CDMX013-md-links&theme=omni" />
 </a>
 <a href="https://github.com/BeliFr/CDMX013-social-network">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BeliFr&repo=CDMX013-social-network&theme=jolly" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BeliFr&repo=CDMX013-social-network&theme=omni" />
 </a>
 <a href="https://github.com/BeliFr/CDMX013-data-lovers-frias-jimenez">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BeliFr&repo=CDMX013-data-lovers-frias-jimenez&theme=jolly" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BeliFr&repo=CDMX013-data-lovers-frias-jimenez&theme=omni" />
 </a>
 <a href="https://github.com/BeliFr/CDMX013-cipher">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BeliFr&repo=CDMX013-cipher&theme=jolly" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BeliFr&repo=CDMX013-cipher&theme=omni" />
 </a>
