@@ -65,6 +65,6 @@
 <a href="https://github.com/BeliFr/CDMX013-data-lovers-frias-jimenez">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BeliFr&repo=CDMX013-data-lovers-frias-jimenez&theme=omni" />
 </a>
-<a href="https://github.com/BeliFr/CDMX013-cipher">
+<a href="https://github.com/BeliFr/CDMX013-cipher"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BeliFr&repo=CDMX013-cipher&theme=omni" />
 </a>
