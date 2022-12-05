@@ -2,29 +2,11 @@
 
 ![bbaner](https://user-images.githubusercontent.com/108832268/201389596-cbd045a4-d72f-41ed-8657-16b68702db7b.jpeg)
 
-
-
-
-
-<!--
-**BeliFr/BeliFR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
   
 <h3 align="center">  I'm a Front-End Developer :computer: and lawyer ⚖️</h3>
 
 
-## 📫 Stay in touch
+## 📫 Reach me through
 
 <a href="https://twitter.com/ValkiriadHierro">
   <img align="left" alt="ValkiriadHierro | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -38,11 +20,11 @@ Here are some ideas to get you started:
 
 ## **About me**
 
--  🔭 &nbsp;I’m currently working on something cool :wink:
-- 💬 ask me about anything, i am happy to help;
+- 🔭 &nbsp;I’m currently working on something cool :wink:
+- 💬 Ask me about anything, I´m happy to help;
 - 🌱 &nbsp;I’m currently learning React
--  ⚡ &nbsp;Fun fact: I :heart: 🏈:
--  💼 any  work? do reach,<a href="mailto:fbfriasr@gmail.com"><img align="center" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" height="30" width="50" /></a>
+- ⚡ &nbsp;Fun fact: I :heart: 🏈:
+- 💼 Job inquiries? Contact me though,<a href="mailto:fbfriasr@gmail.com"><img align="center" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" height="30" width="50" /></a>
  
  <br>
  
