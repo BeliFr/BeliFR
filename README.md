@@ -3,7 +3,7 @@
 ![bbaner](https://user-images.githubusercontent.com/108832268/201389596-cbd045a4-d72f-41ed-8657-16b68702db7b.jpeg)
 
   
-<h3 align="center">  I'm a Front-End Developer :computer: and lawyer ⚖️</h3>
+<h3 align="center">  I'm a Front-End Developer :computer: and Attorney at Law ⚖️</h3>
 
 
 ## 📫 Reach me through
