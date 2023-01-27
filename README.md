@@ -7,10 +7,6 @@
 
 
 ## 📫 Reach me through
-
-<a href="https://twitter.com/ValkiriadHierro">
-  <img align="left" alt="ValkiriadHierro | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/berenicefriasr/">
   <img align="left" alt="Bere´s LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
